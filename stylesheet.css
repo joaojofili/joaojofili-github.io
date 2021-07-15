@@ -1,0 +1,106 @@
+/*html{
+    font-size: 18px;
+}*/
+
+p{
+    font-size: 18px;
+    color: grey
+}
+
+.main-nav {
+    position: relative;
+    list-style: none;
+    box-align: center;
+    text-align: center;
+    padding: 20px;  
+    background-color: #061e6d;
+
+}
+
+.main-nav__item {
+    display: inline-block;
+    padding-right: 80px;
+    padding-left: 80px;
+}
+
+.main-nav__item a{
+    color: white;
+    padding: 50px;
+    text-decoration: none;
+}
+
+.main-nav__item a:hover {
+    color:yellow;
+}
+
+.main-img__item {
+    width: 40%;
+    background-color: #061e6d;
+}
+    
+                                       
+
+#main-paragraph {
+    position: relative;
+    box-sizing: border-box;
+    padding: 0px 70px 0px 70px;
+
+}
+
+#frente {
+    width: 30%;
+    height: 30%;
+    position: relative;
+    padding: 5% 30% 5% 30%;
+
+}
+
+.p {
+    position: relative;
+    padding: 10px 50px 100px 70px;
+    box-align: justify
+}
+
+.titulo {
+    position: relative;
+    padding: 30px 50px 10px 50px;
+}
+
+.main-footer {
+    background-color: #061e6d;
+    list-style: none;
+    box-align: center;
+    padding-bottom: 80px;
+    font-size: 14px;
+}
+
+.main-footer__item {
+    display: inline-block;
+    align-content:center;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 19px;
+}
+
+.main-footer__item a{
+    text-decoration: none;
+    color: white;
+
+}
+
+.main-footer__item a:hover {
+    color: yellow
+}
+
+/*.main-footer__item1 a{
+    color: white;
+    text-emphasis-color: white ;
+    text-decoration: white;
+    padding-left: 10%;
+    padding-top: 30%;
+    align-content: center;
+}*/
+
+/*.main-footer__item1 a:hover{
+    color:yellow;
+}*/
